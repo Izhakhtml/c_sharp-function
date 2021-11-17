@@ -1,0 +1,15 @@
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\bin\Debug\net6.0\functionCnsole.exe
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\bin\Debug\net6.0\functionCnsole.deps.json
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\bin\Debug\net6.0\functionCnsole.runtimeconfig.json
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\bin\Debug\net6.0\functionCnsole.dll
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\bin\Debug\net6.0\ref\functionCnsole.dll
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\bin\Debug\net6.0\functionCnsole.pdb
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\obj\Debug\net6.0\functionCnsole.csproj.AssemblyReference.cache
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\obj\Debug\net6.0\functionCnsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\obj\Debug\net6.0\functionCnsole.AssemblyInfoInputs.cache
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\obj\Debug\net6.0\functionCnsole.AssemblyInfo.cs
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\obj\Debug\net6.0\functionCnsole.csproj.CoreCompileInputs.cache
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\obj\Debug\net6.0\functionCnsole.dll
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\obj\Debug\net6.0\ref\functionCnsole.dll
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\obj\Debug\net6.0\functionCnsole.pdb
+C:\Users\אליאב ליגעלם\source\repos\functionCnsole\obj\Debug\net6.0\functionCnsole.genruntimeconfig.cache
